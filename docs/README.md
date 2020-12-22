@@ -6,7 +6,11 @@
 [![License](https://img.shields.io/github/license/Basis-cash/basiscashprotocol)](https://github.com/Basis-Cash/basiscash-protocol/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/Basis-Cash/basiscash-protocol/badge.svg?branch=master)](https://coveralls.io/github/Basis-Cash/basiscash-protocol?branch=master)
 
-Basis Cash is a lightweight implementation of the [Basis Protocol](basis.io) on Ethereum. 
+BASH is a lightweight implementation of the [Basis Protocol](basis.io) on Ethereum with some improvements borrowed from ESD and learnings from the last few weeks of our involvment in algo stablecoins. 
+
+## BASH
+
+
 
 ## History of Basis 
 
@@ -22,9 +26,9 @@ Basis was shut down in 2018, due to regulatory concerns its Bond and Share token
 
 ## The Basis Cash Protocol
 
-Basis Cash differs from the original Basis Project in several meaningful ways: 
+Bash differs from the original Basis Project in several meaningful ways: 
 
-1. **Rationally simplified** - several core mechanisms of the Basis protocol has been simplified, especially around bond issuance and seigniorage distribution. We've thought deeply about the tradeoffs for these changes, and believe they allow significant gains in UX and contract simplicity, while preserving the intended behavior of the original monetary policy design. 
+1. **Rationally simplified** - several core mechanisms of the Basis protocol has been simplified, especially around bond issuance and rewards distribution. We've thought deeply about the tradeoffs for these changes, and believe they allow significant gains in UX and contract simplicity, while preserving the intended behavior of the original monetary policy design. 
 2. **Censorship resistant** - we launch this project anonymously, protected by the guise of characters from the popular SciFi series Rick and Morty. We believe this will allow the project to avoid the censorship of regulators that scuttled the original Basis Protocol, but will also allow Basis Cash to avoid founder glorification & single points of failure that have plagued so many other projects. 
 3. **Fairly distributed** - both Basis Shares and Basis Cash has zero premine and no investors - community members can earn the initial supply of both assets by helping to contribute to bootstrap liquidity & adoption of Basis Cash. 
 
@@ -46,7 +50,7 @@ Read the official [Basis Cash Documentation](docs.basis.cash) for more details.
 
 ## Motivation
 
-We, the core developers of Basis Cash, were early supporters & observers of Basis when it first launched, and to this day believe that it is one of the best ideas to have ever been put forward in crypto. While Bitcoin first got us interested in blockchain's use cases, it was Basis that first truly inspired us, by painting a picture of a world that runs entirely on decentralized digital dollars the policies for which cannot be corrupted or politicized. Basis is more relevant now today than it ever was in 2017/2018 - with regulators striking back against the decentralized movement by cracking down on Telegram and Libra, while their governments are printing money faster than ever before in human history. 
+We, the core developers of Basis Cash, were early supporters & observers of Basis, ESD, DSD etc when it first launched, and to this day believe that it is one of the best ideas to have ever been put forward in crypto. While Bitcoin first got us interested in blockchain's use cases, it was Basis that first truly inspired us, by painting a picture of a world that runs entirely on decentralized digital dollars the policies for which cannot be corrupted or politicized. Basis is more relevant now today than it ever was in 2017/2018 - with regulators striking back against the decentralized movement by cracking down on Telegram and Libra, while their governments are printing money faster than ever before in human history. 
 
 This is not a DeFi project. We are simply leveraging the industry's excitement in the category to bring much deserved attention and engagement to the Basis Protocol, and to use this opportunity to distribute ownership in the protocol fairly.
 
